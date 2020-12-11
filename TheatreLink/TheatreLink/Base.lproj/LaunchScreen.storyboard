@@ -20,13 +20,16 @@
                             </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.049925050487969073" green="0.13591262630503728" blue="0.27095625135633683" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <color key="backgroundColor" red="0.051759876310000001" green="0.1337067485" blue="0.27060359719999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                         <constraints>
                             <constraint firstItem="7La-jG-fnx" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="303" id="D2H-b3-IgX"/>
                             <constraint firstItem="7La-jG-fnx" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="93" id="NAn-PU-cGg"/>
                             <constraint firstItem="7La-jG-fnx" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="PQz-Pc-nIl"/>
                             <constraint firstItem="7La-jG-fnx" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="Tgb-BW-kka"/>
                         </constraints>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <color key="backgroundColor" red="0.051759876310000001" green="0.1337067485" blue="0.27060359719999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        </variation>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>

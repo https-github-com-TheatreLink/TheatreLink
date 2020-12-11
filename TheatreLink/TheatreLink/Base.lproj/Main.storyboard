@@ -109,7 +109,7 @@
         <!--ProfileNavigationController-->
         <scene sceneID="5Gb-6y-8aG">
             <objects>
-                <viewControllerPlaceholder storyboardName="ProfileTab" referencedIdentifier="ProfileNavigationController" id="ZBf-WU-vzf" sceneMemberID="viewController">
+                <viewControllerPlaceholder storyboardIdentifier="ProfileNavigationController" storyboardName="ProfileTab" referencedIdentifier="ProfileNavigationController" id="ZBf-WU-vzf" sceneMemberID="viewController">
                     <tabBarItem key="tabBarItem" title="Item" id="FkX-5s-OqB"/>
                 </viewControllerPlaceholder>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="KNs-tG-7VQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
